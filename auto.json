@@ -1,0 +1,29 @@
+{
+  "auto_by_engine":{
+         "_comment":"word freq function TFIDF|Pure|MAXTF",
+         "word_freq_function":"Pure",
+         "middle_dir":"/home/leon/1106",
+         "train_test_set_path":"/home/sample/train_test_for_test",
+         "enable_extract_feature":1,
+          "engine_extract_feature_cfg":{
+                "use_top_keyword":0,
+                "start_extract_index":0,
+                "extract_interval":100
+          }
+  },
+  "auto_by_python":{
+         "word_freq_function":"Pure",
+        "enable_extract_feature":0,
+        "only_html_keyword":1, 
+	"middle_dir":"/home/GT/automation/keyword_engine/JSVBS/max_tf/",
+         "train_set_path":"/home/sa_sample_set/train_test/",
+          "max_tf_cfg_path":"/home/GT/max_total/train_test/training_sample_set/word_feaquemcy/max_tf_list.txt_after_process",
+         "test_set_path":"/home/GT/max_total/middle_dir/testing/",
+
+          "python_extract_feature_cfg":{
+                "use_top_keyword":5000,
+                "start_extract_index":0,
+                "extract_interval":500
+          }
+  }
+}

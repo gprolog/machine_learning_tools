@@ -1,0 +1,6 @@
+<behavior_report>
+    <file_path>/home/GT/max_tf/train_test/testing/test_mal/0003e0f0b0f540375c3c748abb035397a2dbc603</file_path>
+    <decision>malicious</decision>
+    <matched_rules>sie.yara.cve_2014_6332;sie.yara.cve_2014_6332_a;</matched_rules>
+    <heu_features/>
+</behavior_report>

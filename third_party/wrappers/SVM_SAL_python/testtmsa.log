@@ -1,0 +1,126 @@
+2017-04-06 19:36:14,203 - root - INFO - Initialize PYSAL done
+2017-04-06 19:36:14,467 - root - DEBUG - read file time: 0.031 seconds
+2017-04-06 19:36:45,411 - root - INFO - dynamically detected
+2017-04-07 01:35:53,631 - root - INFO - Initialize PYSAL done
+2017-04-07 01:35:53,881 - root - DEBUG - read file time: 0.000 seconds
+2017-04-07 01:36:24,405 - root - INFO - dynamically detected
+2017-04-07 01:41:49,296 - root - INFO - Initialize PYSAL done
+2017-04-07 01:41:49,483 - root - DEBUG - read file time: 0.000 seconds
+2017-04-07 01:42:20,335 - root - INFO - dynamically detected
+2017-04-07 01:44:43,742 - root - INFO - Initialize PYSAL done
+2017-04-07 01:44:43,928 - root - DEBUG - read file time: 0.000 seconds
+2017-04-07 01:45:14,328 - root - INFO - dynamically detected
+2017-04-09 18:47:58,905 - root - INFO - Initialize PYSAL done
+2017-04-09 18:47:59,983 - root - DEBUG - read file time: 0.109 seconds
+2017-04-09 18:48:32,180 - root - INFO - dynamically detected
+2017-04-09 18:50:52,023 - root - INFO - Initialize PYSAL done
+2017-04-09 18:50:52,507 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 18:51:23,331 - root - INFO - dynamically detected
+2017-04-09 18:56:26,736 - root - INFO - Initialize PYSAL done
+2017-04-09 18:56:27,236 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 18:56:58,130 - root - INFO - dynamically detected
+2017-04-09 22:39:06,895 - root - INFO - Initialize PYSAL done
+2017-04-09 22:39:07,130 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 22:39:38,131 - root - INFO - dynamically detected
+2017-04-09 22:40:01,085 - root - INFO - Initialize PYSAL done
+2017-04-09 22:40:01,319 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 22:40:32,131 - root - INFO - dynamically detected
+2017-04-09 22:42:07,819 - root - INFO - Initialize PYSAL done
+2017-04-09 22:42:08,039 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 22:42:39,131 - root - INFO - dynamically detected
+2017-04-09 22:49:32,148 - root - INFO - Initialize PYSAL done
+2017-04-09 22:49:32,367 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 22:50:03,134 - root - INFO - dynamically detected
+2017-04-09 22:52:18,854 - root - INFO - Initialize PYSAL done
+2017-04-09 22:52:19,088 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 22:52:50,128 - root - INFO - dynamically detected
+2017-04-09 23:00:14,316 - root - INFO - Initialize PYSAL done
+2017-04-09 23:00:14,566 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:00:45,161 - root - INFO - dynamically detected
+2017-04-09 23:07:06,816 - root - INFO - Initialize PYSAL done
+2017-04-09 23:07:07,051 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:07:38,134 - root - INFO - dynamically detected
+2017-04-09 23:10:03,290 - root - INFO - Initialize PYSAL done
+2017-04-09 23:10:03,525 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:10:34,134 - root - INFO - dynamically detected
+2017-04-09 23:12:54,947 - root - INFO - Initialize PYSAL done
+2017-04-09 23:12:55,180 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:12:58,790 - root - INFO - scan with hs
+2017-04-09 23:12:58,790 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:13:34,747 - root - INFO - scan with hs
+2017-04-09 23:13:34,763 - root - DEBUG - read file time: 0.015 seconds
+2017-04-09 23:13:46,072 - root - INFO - scan with hs
+2017-04-09 23:13:46,088 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:13:57,220 - root - INFO - scan with hs
+2017-04-09 23:13:57,236 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:14:00,644 - root - INFO - dynamically detected
+2017-04-09 23:14:00,674 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:14:02,378 - root - INFO - scan with hs
+2017-04-09 23:17:54,846 - root - INFO - Initialize PYSAL done
+2017-04-09 23:17:55,049 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:17:58,493 - root - INFO - scan with hs
+2017-04-09 23:17:58,493 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:09,500 - root - INFO - scan with hs
+2017-04-09 23:18:09,516 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:11,266 - root - INFO - scan with hs
+2017-04-09 23:18:11,296 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:13,469 - root - INFO - scan with hs
+2017-04-09 23:18:13,469 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:16,855 - root - INFO - dynamically detected
+2017-04-09 23:18:16,887 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:16,904 - root - INFO - dynamically detected
+2017-04-09 23:18:16,936 - root - DEBUG - read file time: 0.016 seconds
+2017-04-09 23:18:20,967 - root - INFO - dynamically detected
+2017-04-09 23:18:20,999 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:21,049 - root - INFO - dynamically detected
+2017-04-09 23:18:21,082 - root - DEBUG - read file time: 0.016 seconds
+2017-04-09 23:18:22,535 - root - INFO - scan with hs
+2017-04-09 23:18:22,549 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:25,112 - root - INFO - scan with hs
+2017-04-09 23:18:25,128 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:28,486 - root - INFO - scan with hs
+2017-04-09 23:18:28,502 - root - DEBUG - read file time: 0.000 seconds
+2017-04-09 23:18:31,354 - root - INFO - scan with hs
+2017-04-10 02:41:38,421 - root - INFO - Initialize PYSAL done
+2017-04-10 02:41:53,171 - root - INFO - Initialize PYSAL done
+2017-04-10 02:42:08,703 - root - INFO - Initialize PYSAL done
+2017-04-10 02:43:07,280 - root - INFO - Initialize PYSAL done
+2017-04-10 02:50:10,828 - root - INFO - Initialize PYSAL done
+2017-04-10 20:23:26,755 - root - INFO - Initialize PYSAL done
+2017-04-10 20:24:21,414 - root - INFO - Initialize PYSAL done
+2017-04-10 20:29:20,188 - root - INFO - Initialize PYSAL done
+2017-04-10 20:31:39,548 - root - INFO - Initialize PYSAL done
+2017-04-10 20:31:50,115 - root - INFO - Initialize PYSAL done
+2017-04-10 20:39:02,536 - root - INFO - Initialize PYSAL done
+2017-04-10 20:39:14,496 - root - INFO - Initialize PYSAL done
+2017-04-10 18:19:54,437 - root - INFO - Initialize PYSAL done
+2017-04-10 18:30:43,500 - root - INFO - Initialize PYSAL done
+2017-04-10 18:30:51,203 - root - INFO - Initialize PYSAL done
+2017-04-10 18:35:35,046 - root - INFO - Initialize PYSAL done
+2017-04-10 19:42:30,375 - root - INFO - Initialize PYSAL done
+2017-04-10 19:42:30,967 - root - DEBUG - read file time: 0.000 seconds
+2017-04-10 19:42:34,915 - root - INFO - scan with hs
+2017-04-10 19:43:18,729 - root - INFO - Initialize PYSAL done
+2017-04-10 19:43:18,963 - root - DEBUG - read file time: 0.031 seconds
+2017-04-10 19:43:22,844 - root - INFO - dynamically detected
+2017-04-10 22:59:15,983 - root - INFO - Initialize PYSAL done
+2017-04-10 23:03:34,421 - root - INFO - Initialize PYSAL done
+2017-04-10 23:03:48,092 - root - INFO - Initialize PYSAL done
+2017-04-11 00:28:09,530 - root - INFO - Initialize PYSAL done
+2017-04-11 00:53:49,217 - root - INFO - Initialize PYSAL done
+2017-04-11 01:01:19,187 - root - INFO - Initialize PYSAL done
+2017-04-11 01:02:21,733 - root - INFO - Initialize PYSAL done
+2017-04-11 03:03:44,842 - root - INFO - Initialize PYSAL done
+2017-04-12 02:13:57,229 - root - INFO - Initialize PYSAL done
+2017-04-12 02:16:36,588 - root - INFO - Initialize PYSAL done
+2017-04-12 03:05:47,157 - root - INFO - Initialize PYSAL done
+2017-04-13 18:32:43,217 - root - INFO - Initialize PYSAL done
+2017-04-16 18:57:48,578 - root - INFO - Initialize PYSAL done
+2017-04-16 18:59:52,046 - root - INFO - Initialize PYSAL done
+2017-04-16 19:02:45,717 - root - INFO - Initialize PYSAL done
+2017-04-18 22:34:45,905 - root - INFO - Initialize PYSAL done
+2017-04-18 22:40:51,983 - root - INFO - Initialize PYSAL done
+2017-04-19 00:21:09,092 - root - INFO - Initialize PYSAL done
+2017-04-19 00:26:14,500 - root - INFO - Initialize PYSAL done
+2017-04-19 02:48:10,092 - root - INFO - Initialize PYSAL done
+2017-04-19 02:51:44,375 - root - INFO - Initialize PYSAL done

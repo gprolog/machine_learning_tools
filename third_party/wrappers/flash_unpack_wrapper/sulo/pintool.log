@@ -1,0 +1,10 @@
+Pin 2.13 kit 65089
+ Found supported Flash Player image: C:\Users\Administrator\Desktop\sulo\flashplayer11_1r102_62_win_sa_32bit.exe (0x1390000 - 0x1c23fff)
+ Dumping flash from 0x8cc0008, 235979 bytes
+ Dumped flash to dumped_flash_0.bin
+ Dumping flash from 0x21e6a00, 1253 bytes
+ Dumped flash to dumped_flash_1.bin
+ Dumping flash from 0xa020008, 183715 bytes
+ Dumped flash to dumped_flash_2.bin
+ Dumping flash from 0xa2d0008, 228370 bytes
+ Dumped flash to dumped_flash_3.bin

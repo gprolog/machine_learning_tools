@@ -1,0 +1,6 @@
+<behavior_report>
+    <file_path>/home/sa_sample_set/train_test/mal_set/malicious_old/3/4ab25fce9b88991dc4bdb3d6740459e49f0c8fe8</file_path>
+    <decision>suspicious</decision>
+    <matched_rules>sie.heurisic.suspicious</matched_rules>
+    <heu_features/>
+</behavior_report>
